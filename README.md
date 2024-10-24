@@ -1,8 +1,9 @@
 # ☕ Coffee Shop Sales Analysis
-
+![Coffee Shop Sales Dashboard](https://github.com/user-attachments/assets/04b209bf-5ecc-47ee-9e1d-80aca46fe3e1)
 ## 📊 Project Overview
 
-This project is aimed at analyzing the sales data of a coffee shop to gain valuable insights that can support better business decisions. The analysis was conducted using **Tableau**, and the repository contains a Tableau workbook (`Coffee Sales Analysis.twb`). The workbook includes visualizations and dashboards that showcase various aspects of the shop’s performance, including sales trends, product popularity, and sales patterns across different times and locations.
+This project is aimed at analyzing the sales data of 
+a coffee shop to gain valuable insights that can support better business decisions. The analysis was conducted using **Tableau**, and the repository contains a Tableau workbook (`Coffee Sales Analysis.twb`). The workbook includes visualizations and dashboards that showcase various aspects of the shop’s performance, including sales trends, product popularity, and sales patterns across different times and locations.
 
 A sample dataset was sourced from Kaggle, and you can access it via the following link:
 [Coffee Shop Sales Dataset - Kaggle](https://www.kaggle.com/datasets/divu2001/coffee-shop-sales-analysis)
